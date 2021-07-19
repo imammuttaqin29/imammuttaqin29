@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imammuttaqin29 or you can found me on linkedin linkedin.com/in/imammuttaqin29/
-- 👀 I’m interested in Software Quality Assurance Engineer
+- 👀 I’m interested in Software Quality Assurance Engineer and now currently i'm open opportunity
 - 🌱 I’m currently learning about performance test using javascript with k6 framework
 - 💞️ I’m looking to collaborate on open project non-commercial
 - 📫 How to reach me ...
